@@ -60,7 +60,7 @@ with your notes. This way the notes and data stay together.
 
 This might be an example of a spreadsheet setup:
 
-![spreadsheet setup](../fig/spreadsheet-setup.png)
+![spreadsheet setup](../fig/spreadsheet-setup.jpg)
 
 Put these principles in to practice today during your Exercises. 
 
