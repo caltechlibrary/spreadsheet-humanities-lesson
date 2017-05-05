@@ -90,9 +90,9 @@ If they were to keep track of the data like this:
 
 ![multiple-info example](../fig/multiple-info.jpg)
 
-the problem is that species and sex are in the same field. So, if they wanted to 
-look at all of one species or look at different weight distributions by sex, 
-it would be hard to do this using this data setup. If instead we put sex and species 
+the problem is that donor and condition are in the same field. So, if they wanted to 
+look at all of one donor, or look at different weight distributions by condition, 
+it would be hard to do this using this data setup. If instead we put donor and condition 
 in different columns, you can see that it would be much easier. 
 
 ### Columns for variables and rows for observations
