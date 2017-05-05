@@ -12,8 +12,10 @@ keypoints:
 - "Keep track of all of the steps you take to clean your data."  
 - "Organize your data according to tidy data principles."  
 ---
-
-Authors: **Christie Bahlai**, **Aleksandra Pawlik**<br>
+### Credits
+- Adapted from Data Carpentry Ecology Lesson (https://github.com/datacarpentry/spreadsheet-ecology-lesson) by: **Gail Clement**, **Donna Wrublewski**, and **Tom Morrell**
+- Authors of original Data Carpentry Ecology Lesson: **Christie Bahlai**, **Aleksandra Pawlik**<br>
+- Contributors to original Data Carpentry Ecology Lesson: **Jennifer Bryan**, **Alexander Duryee**, **Jeffrey Hollister**, **Daisie Huang**, **Owen Jones**, **Clare Sloggett**, **Harriet Dashnow** and **Ben Marwick**
 
 The most common mistake made is treating treating spreadsheet programs like lab notebooks, that is, 
 relying on context, notes in the margin,
