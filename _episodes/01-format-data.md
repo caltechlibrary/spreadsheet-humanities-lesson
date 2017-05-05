@@ -88,7 +88,7 @@ weight, sex and date collected.
 
 If they were to keep track of the data like this:
 
-![multiple-info example](../fig/multiple-info.jpg)
+![multiple-info example](../fig/multiple-info.png)
 
 the problem is that donor and condition are in the same field. So, if they wanted to 
 look at all of one donor, or look at different weight distributions by condition, 
