@@ -100,7 +100,7 @@ variables, rows = observations, cells = data (values).
 
 So, instead we should have:
 
-![single-info example](../fig/single-info.png)
+![single-info example](../fig/single-info.jpg)
 
 > ## Discussion
 > If not already discussed, introduce the dataset that will be used in this
