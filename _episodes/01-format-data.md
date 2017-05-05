@@ -115,20 +115,18 @@ So, instead we should have:
 > 
 > We're going to take a messy version of the survey data and describle how we would clean it up.
 >
-> 1. Download the data by clicking [here](https://ndownloader.figshare.com/files/2252083) to get it from FigShare.
+> 1. Download the data by clicking [here](https://github.com/caltechlibrary/spreadsheet-humanities-lesson/raw/gh-pages/data/survey_data_humanities_messy.xls) to get the file form the Caltech Library Github site.
 > 2. Open up the data in a spreadsheet program. 
-> 3. You can see that there are two tabs. Two field assistants conducted the surveys, one
-in 2013 and one in 2014, and they both kept track of the data in their own way. Now
-you're the person in charge of this project and you want to be able to 
-start analyzing the data.   
-> 4. With the person next to you, identify what is wrong with this spreadsheet. Also discuss the steps you would need to take to clean up the 2013 and 2014 tabs, and to put them all together in one spreadsheet. 
+> 3. You can see that there are three tabs. Three field assistants conducted the collection inventories, one in each year 
+of 2013, 2014, and 2015. Each kept track of the data in their own way. Now you're the person in charge of this project and 
+you want to be able to start analyzing the data.   
+> 4. With the person next to you, identify what is wrong with this spreadsheet. Also, discuss the steps you would need to 
+take to clean up all three tabs, and to put them all together in one spreadsheet. 
 >
-> **Important** Do not forget our first piece of advice, the
-> create a new file (or tab) for the cleaned data, never
+> **Important** Do not forget our first piece of advice: to create a new file (or tab) for the cleaned data, and never
 > modify your original (raw) data.
 > 
-> After you go through this exercise, we'll discuss as a group what was wrong
-> with this data and how you would fix it. 
+> After you go through this exercise, we'll discuss as a group what was wrong with this data and how you would fix it. 
 > 
 > > ## Solution
 > > - Take about 10 minutes to work on this exercise.
