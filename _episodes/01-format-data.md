@@ -81,19 +81,17 @@ The cardinal rules of using spreadsheet programs for data:
    ensures that anyone can use the data, and is required by
    most data repositories.
 
-For instance, we have data from a survey of small mammals in a desert
-ecosystem. Different people have gone to the field and entered data in
-to a spreadsheet. They keep track of things like species, plot,
-weight, sex and date collected.
+For instance, we have data from a collection inventory of artifacts. Different curators have collected information 
+through the years and have entered data into a spreadsheet. They keep track of things like the room the item is in, 
+the date of collection, who donated it, the condition, and the weight.
 
 If they were to keep track of the data like this:
 
 ![multiple-info example](../fig/multiple-info.png)
 
-the problem is that donor and condition are in the same field. So, if they wanted to 
-look at all of one donor, or look at different weight distributions by condition, 
-it would be hard to do this using this data setup. If instead we put donor and condition 
-in different columns, you can see that it would be much easier. 
+the problem is that donor and condition are in the same field. So, if they wanted to look at all itemd from one donor, 
+or look at different weight distributions by condition, it would be hard to do this using this data setup. If instead 
+we put donor and condition in different columns, you can see that it would be much easier. 
 
 ### Columns for variables and rows for observations
 
