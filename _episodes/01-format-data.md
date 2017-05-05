@@ -60,7 +60,7 @@ with your notes. This way the notes and data stay together.
 
 This might be an example of a spreadsheet setup:
 
-![spreadsheet setup](../fig/spreadsheet-setup.jpg)
+![spreadsheet setup](../fig/spreadsheet-setup.png)
 
 Put these principles in to practice today during your Exercises. 
 
@@ -88,7 +88,7 @@ weight, sex and date collected.
 
 If they were to keep track of the data like this:
 
-![multiple-info example](../fig/multiple-info.png)
+![multiple-info example](../fig/multiple-info.jpg)
 
 the problem is that species and sex are in the same field. So, if they wanted to 
 look at all of one species or look at different weight distributions by sex, 
