@@ -107,9 +107,7 @@ So, instead we should have:
 > ## Discussion
 > If not already discussed, introduce the dataset that will be used in this lesson.  
 >
-> The data used in this lesson are adapted from a dataset of collection metadata originally from the 
-[Powerhouse Museum](http://api.powerhousemuseum.com/login/?next=/), and has been used by the 
-[Programming Historian](http://programminghistorian.org/lessons/cleaning-data-with-openrefine). 
+> The data used in this lesson are adapted from the Data Carpentry Ecology Lesson (https://github.com/datacarpentry/spreadsheet-ecology-lesson).
 
 > ## Exercise
 > 
